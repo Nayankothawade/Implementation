@@ -22,7 +22,7 @@ namespace BankApp.Banks.SBI
             acct.deactivate += listener.SendSMS;
 
             Console.WriteLine(acct.Balance);
-            acct.Withdraw(6000);
+            acct.Withdraw(2000);
             Console.WriteLine(acct.Balance);
         }
     }

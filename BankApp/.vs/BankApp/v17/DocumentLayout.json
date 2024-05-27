@@ -1,24 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\TFL\\BankApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{861853D7-67EA-4FD0-A761-51365AA256DB}|BankApp\\BankApp.csproj|c:\\users\\admin\\desktop\\tfl\\bankapp\\bankapp\\sbibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{861853D7-67EA-4FD0-A761-51365AA256DB}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\sbibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{861853D7-67EA-4FD0-A761-51365AA256DB}|BankApp\\BankApp.csproj|c:\\users\\admin\\desktop\\tfl\\bankapp\\bankapp\\hdfcbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{861853D7-67EA-4FD0-A761-51365AA256DB}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\hdfcbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{861853D7-67EA-4FD0-A761-51365AA256DB}|BankApp\\BankApp.csproj|c:\\users\\admin\\desktop\\tfl\\bankapp\\bankapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{861853D7-67EA-4FD0-A761-51365AA256DB}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{861853D7-67EA-4FD0-A761-51365AA256DB}|BankApp\\BankApp.csproj|c:\\users\\admin\\desktop\\tfl\\bankapp\\bankapp\\accountlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{861853D7-67EA-4FD0-A761-51365AA256DB}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\accountlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\BankApp\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,59 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SBIBank.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\BankApp\\BankApp\\SBIBank.cs",
-              "RelativeDocumentMoniker": "BankApp\\SBIBank.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\BankApp\\BankApp\\SBIBank.cs",
-              "RelativeToolTip": "BankApp\\SBIBank.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T18:27:04.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HDFCBank.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\BankApp\\BankApp\\HDFCBank.cs",
-              "RelativeDocumentMoniker": "BankApp\\HDFCBank.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\BankApp\\BankApp\\HDFCBank.cs",
-              "RelativeToolTip": "BankApp\\HDFCBank.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T18:26:54.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\BankApp\\BankApp\\Program.cs",
-              "RelativeDocumentMoniker": "BankApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\BankApp\\BankApp\\Program.cs",
-              "RelativeToolTip": "BankApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T18:25:59.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountListener.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\BankApp\\BankApp\\AccountListener.cs",
-              "RelativeDocumentMoniker": "BankApp\\AccountListener.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\BankApp\\BankApp\\AccountListener.cs",
-              "RelativeToolTip": "BankApp\\AccountListener.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAkwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T18:25:53.141Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }
