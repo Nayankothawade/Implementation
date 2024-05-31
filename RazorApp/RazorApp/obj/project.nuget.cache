@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3g4Cj1q3VIOzoezL/auN9cV5AFol9R7WfdEiIHD+uVJkh1rO2prfbTz10gFfVGexBUetWtj78DNL2u3jn+sB6Q==",
+  "dgSpecHash": "yNVdH/6NXmuGwqKray1xXAgAXOBcGEM9IPfnSZLJHTpGlEuNvHbkkkXNAEbif04T2krPq+HlVWIBYwjY9l+pFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\TFL\\RazorApp\\RazorApp\\RazorApp.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\RazorApp\\RazorApp\\RazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

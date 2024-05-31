@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TFL\\RazorApp\\RazorApp\\RazorApp.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\RazorApp\\RazorApp\\RazorApp.csproj",
       "projectName": "RazorApp",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\TFL\\RazorApp\\RazorApp\\RazorApp.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\RazorApp\\RazorApp\\RazorApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\TFL\\RazorApp\\RazorApp\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\RazorApp\\RazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
