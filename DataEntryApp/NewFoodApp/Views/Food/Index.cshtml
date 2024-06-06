@@ -1,0 +1,10 @@
+﻿<h2>Food List</h2>
+<a href="/food/insert">Insert new Food</a>
+<hr/>
+@{
+    List<Food> items = (List<Food>)ViewData["items"];
+    foreach (var food in items)
+    {
+        <p>@food.Name<a href="/food/details/@food.Id">Details</a> | <a href="/food/remove/@food.Id">Remove</a></p>
+    }
+}

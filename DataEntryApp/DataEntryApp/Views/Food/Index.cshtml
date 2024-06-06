@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@{
+    List<Food> allFoods = (List<Food>)ViewData["items"];
+    foreach (Food food in allFoods)
+    {
+        <p> @food.Name  <a href="/food/details/@food.Id">Details</a>
+        |<a href="/food/edit/@food.Id">Edit</a>
+        |<a href="/food/remove/@food.Id">Remove</a>
+        </p>
+    }
+}
+
+<a href="/food/insert">Insert</a>
