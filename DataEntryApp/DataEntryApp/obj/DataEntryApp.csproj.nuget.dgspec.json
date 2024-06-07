@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\TFL\\DataEntryApp\\DataEntryApp\\DataEntryApp.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\DataEntryApp\\DataEntryApp\\DataEntryApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\TFL\\DataEntryApp\\DataEntryApp\\DataEntryApp.csproj": {
+    "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\DataEntryApp\\DataEntryApp\\DataEntryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TFL\\DataEntryApp\\DataEntryApp\\DataEntryApp.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\DataEntryApp\\DataEntryApp\\DataEntryApp.csproj",
         "projectName": "DataEntryApp",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\TFL\\DataEntryApp\\DataEntryApp\\DataEntryApp.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\DataEntryApp\\DataEntryApp\\DataEntryApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\TFL\\DataEntryApp\\DataEntryApp\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\DataEntryApp\\DataEntryApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

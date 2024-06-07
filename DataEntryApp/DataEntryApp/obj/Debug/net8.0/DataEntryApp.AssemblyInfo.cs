@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataEntryApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8618389717b77d922638c02d930acd0cbdce071")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataEntryApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataEntryApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
