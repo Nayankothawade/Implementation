@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SessionStorageApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c11aae23200520c45e7d99767af827732c4a6292")]
 [assembly: System.Reflection.AssemblyProductAttribute("SessionStorageApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SessionStorageApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

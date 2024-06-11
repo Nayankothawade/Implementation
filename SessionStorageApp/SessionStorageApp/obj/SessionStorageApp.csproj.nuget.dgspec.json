@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\TFL\\SessionStorageApp\\SessionStorageApp\\SessionStorageApp.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SessionStorageApp\\SessionStorageApp\\SessionStorageApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\TFL\\SessionStorageApp\\SessionStorageApp\\SessionStorageApp.csproj": {
+    "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SessionStorageApp\\SessionStorageApp\\SessionStorageApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TFL\\SessionStorageApp\\SessionStorageApp\\SessionStorageApp.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SessionStorageApp\\SessionStorageApp\\SessionStorageApp.csproj",
         "projectName": "SessionStorageApp",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\TFL\\SessionStorageApp\\SessionStorageApp\\SessionStorageApp.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SessionStorageApp\\SessionStorageApp\\SessionStorageApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\TFL\\SessionStorageApp\\SessionStorageApp\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SessionStorageApp\\SessionStorageApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
