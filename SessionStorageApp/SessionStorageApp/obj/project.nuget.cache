@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pfBjht5say+zl4TytPbQbD4Mkaz7VThryHv4Qi7DM/xjG+rf7bSfonAGn/aCKNyjOljkia7tEiTjVjNDCnQgRA==",
+  "dgSpecHash": "zCU1zvtIbz7Vlc+9eSR/uegajLWq3mz4qnSLh9HSnDxNxYvYINhh3AQZknuWYAzvnfdwIP5VLJG0/WwDV/3l3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SessionStorageApp\\SessionStorageApp\\SessionStorageApp.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\StateManagement\\SessionStorageApp\\SessionStorageApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

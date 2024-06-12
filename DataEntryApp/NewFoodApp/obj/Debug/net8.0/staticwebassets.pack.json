@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\DataEntryApp\\NewFoodApp\\wwwroot\\images\\bar-chart.png",
+      "PackagePath": "staticwebassets\\images\\bar-chart.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\DataEntryApp\\NewFoodApp\\wwwroot\\images\\line-chart.png",
+      "PackagePath": "staticwebassets\\images\\line-chart.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\DataEntryApp\\NewFoodApp\\wwwroot\\images\\pie-chart.png",
+      "PackagePath": "staticwebassets\\images\\pie-chart.png"
+    },
+    {
       "Id": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\DataEntryApp\\NewFoodApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

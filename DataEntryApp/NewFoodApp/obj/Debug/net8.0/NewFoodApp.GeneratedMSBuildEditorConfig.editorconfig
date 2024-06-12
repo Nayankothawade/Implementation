@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NewFoodApp
 build_property.RootNamespace = NewFoodApp
@@ -48,6 +56,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Admin/Desktop/TFL/Implementation/DataEntryApp/NewFoodApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/TFL/Implementation/DataEntryApp/NewFoodApp/Views/Statsboard/BarChartView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHNib2FyZFxCYXJDaGFydFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/TFL/Implementation/DataEntryApp/NewFoodApp/Views/Statsboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHNib2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/TFL/Implementation/DataEntryApp/NewFoodApp/Views/Statsboard/LineChartView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHNib2FyZFxMaW5lQ2hhcnRWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/TFL/Implementation/DataEntryApp/NewFoodApp/Views/Statsboard/PieChartView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHNib2FyZFxQaWVDaGFydFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Desktop/TFL/Implementation/DataEntryApp/NewFoodApp/Views/_ViewImports.cshtml]
