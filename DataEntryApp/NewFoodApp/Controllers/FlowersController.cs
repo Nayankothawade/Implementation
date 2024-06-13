@@ -5,8 +5,10 @@ namespace NewFoodApp.Controllers
 {
     public class FlowersController : Controller
     {
-        [OutputCache(PolicyName = "CacheFor30Seconds")]
+        //[OutputCache(PolicyName = "CacheFor30Seconds")]
+        [OutputCache]
         public IActionResult Index()
+        
         {
             List<string> list = new List<string>();
             list.Add("Rose");

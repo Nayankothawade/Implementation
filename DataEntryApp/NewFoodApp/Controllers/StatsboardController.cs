@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using NewFoodApp.Models;
 
 namespace NewFoodApp.Controllers
 {
@@ -6,7 +7,8 @@ namespace NewFoodApp.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            List<ChartData> charData = ChartData.GetData();
+            return View(charData);
         }
 
         public IActionResult LineChartView() 
@@ -16,7 +18,9 @@ namespace NewFoodApp.Controllers
 
         public IActionResult BarChartView()
         {
-            return View();
+            List<ChartData> charData = ChartData.GetData();
+
+            return View(charData);
         }
 
         public IActionResult PieChartView()

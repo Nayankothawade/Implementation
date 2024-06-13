@@ -1,2 +1,52 @@
-﻿<h2> Bar Chart </h2>
-<img src="/images/bar-chart.png" height="100" width="100" />
+﻿@model IEnumerable<NewFoodApp.Models.ChartData>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="Container">
+    <h2>Hotel Stats</h2>
+        <canvas id="myChart" width="200" height="200"></canvas>
+    </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var labels = @Html.Raw(Json.Serialize(Model.Select(x => x.Label)));
+            var data = @Html.Raw(Json.Serialize(Model.Select(x => x.Value)));
+            var barColors = ["red", "green", "blue", "orange", "brown"];
+
+            new Chart("myChart", {
+                type: "bar",
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Value',
+                        data: data,
+                        backgroundColor: barColors,
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: false
+                        },
+                        title: {
+                            display: true,
+                            text: 'Sales Stats for Pune Restaurants'
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>
