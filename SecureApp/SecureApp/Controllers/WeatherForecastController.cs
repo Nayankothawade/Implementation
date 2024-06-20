@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace SeecureApp.Controllers
+namespace SecureApp.Controllers
 {
     [ApiController]
     [Route("[controller]")]

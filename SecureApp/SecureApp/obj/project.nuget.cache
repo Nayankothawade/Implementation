@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UG6FRZ+M1+c8r87xKkYMxk79E899ngMqU1W6fOCf9piaNqM6hPOYfgtN/rKzi9ONyfkw0bLYegVX1Yv2ZQnJxQ==",
+  "dgSpecHash": "UZwtl3dPiLuKkKvx3DT/7BCm5SrXLJfjjHz0yQPZKZdaPzVsngS5o7fj3oL3Mjta4sDfCsJCh6GUBvlRX72OlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SeecureApp\\SeecureApp\\SecureApp.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureApp\\SecureApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\mailkit\\4.6.0\\mailkit.4.6.0.nupkg.sha512",
