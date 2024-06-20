@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PqYBPpxNAC0SDyjfKZ1YpWQo4zrKeL/NW+c1bnuCFTE=",
+  "Source": "SecureApp",
+  "BasePath": "_content/SecureApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

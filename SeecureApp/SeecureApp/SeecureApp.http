@@ -1,0 +1,6 @@
+@SeecureApp_HostAddress = http://localhost:5177
+
+GET {{SeecureApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
