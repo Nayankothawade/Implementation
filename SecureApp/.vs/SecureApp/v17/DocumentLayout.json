@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|c:\\users\\admin\\desktop\\tfl\\implementation\\secureapp\\securerolesapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|solutionrelative:securerolesapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|c:\\users\\admin\\desktop\\tfl\\implementation\\secureapp\\securerolesapp\\helpers\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|solutionrelative:securerolesapp\\helpers\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|c:\\users\\admin\\desktop\\tfl\\implementation\\secureapp\\securerolesapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,32 +15,8 @@
       "RelativeMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|solutionrelative:securerolesapp\\filters\\authroizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|c:\\users\\admin\\desktop\\tfl\\implementation\\secureapp\\securerolesapp\\models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|solutionrelative:securerolesapp\\models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|c:\\users\\admin\\desktop\\tfl\\implementation\\secureapp\\securerolesapp\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|solutionrelative:securerolesapp\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|c:\\users\\admin\\desktop\\tfl\\implementation\\secureapp\\securerolesapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|solutionrelative:securerolesapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|c:\\users\\admin\\desktop\\tfl\\implementation\\secureapp\\securerolesapp\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|solutionrelative:securerolesapp\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|c:\\users\\admin\\desktop\\tfl\\implementation\\secureapp\\securerolesapp\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|solutionrelative:securerolesapp\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|c:\\users\\admin\\desktop\\tfl\\implementation\\secureapp\\securerolesapp\\helpers\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|solutionrelative:securerolesapp\\helpers\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|c:\\users\\admin\\desktop\\tfl\\implementation\\secureapp\\securerolesapp\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEAB9C33-A243-49D6-9ECE-2EC65D0953E8}|SecureRolesApp\\SecureRolesApp.csproj|solutionrelative:securerolesapp\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,28 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "SecureRolesApp\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Services\\UserService.cs",
+              "RelativeToolTip": "SecureRolesApp\\Services\\UserService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:46:56.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "SecureRolesApp\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "SecureRolesApp\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:43:44.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "JwtMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Helpers\\JwtMiddleware.cs",
               "RelativeDocumentMoniker": "SecureRolesApp\\Helpers\\JwtMiddleware.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Helpers\\JwtMiddleware.cs",
               "RelativeToolTip": "SecureRolesApp\\Helpers\\JwtMiddleware.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAZAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T10:35:59.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Helpers\\AppSettings.cs",
-              "RelativeDocumentMoniker": "SecureRolesApp\\Helpers\\AppSettings.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Helpers\\AppSettings.cs",
-              "RelativeToolTip": "SecureRolesApp\\Helpers\\AppSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T10:35:56.12Z",
+              "WhenOpened": "2024-06-21T11:42:25.922Z",
               "EditorCaption": ""
             },
             {
@@ -90,100 +79,9 @@
               "RelativeDocumentMoniker": "SecureRolesApp\\Filters\\AuthroizeAttribute.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Filters\\AuthroizeAttribute.cs",
               "RelativeToolTip": "SecureRolesApp\\Filters\\AuthroizeAttribute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T10:31:06.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "SecureRolesApp\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Services\\UserService.cs",
-              "RelativeToolTip": "SecureRolesApp\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T10:20:05.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "SecureRolesApp\\Services\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Services\\IUserService.cs",
-              "RelativeToolTip": "SecureRolesApp\\Services\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T10:19:57.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "SecureRolesApp\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "SecureRolesApp\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T09:12:14.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Models\\AuthResponse.cs",
-              "RelativeDocumentMoniker": "SecureRolesApp\\Models\\AuthResponse.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Models\\AuthResponse.cs",
-              "RelativeToolTip": "SecureRolesApp\\Models\\AuthResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T09:19:08.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Models\\AuthRequest.cs",
-              "RelativeDocumentMoniker": "SecureRolesApp\\Models\\AuthRequest.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Models\\AuthRequest.cs",
-              "RelativeToolTip": "SecureRolesApp\\Models\\AuthRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T09:19:03.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "SecureRolesApp\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Entities\\User.cs",
-              "RelativeToolTip": "SecureRolesApp\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T09:17:43.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Entities\\Role.cs",
-              "RelativeDocumentMoniker": "SecureRolesApp\\Entities\\Role.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TFL\\Implementation\\SecureApp\\SecureRolesApp\\Entities\\Role.cs",
-              "RelativeToolTip": "SecureRolesApp\\Entities\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T09:17:37.784Z",
+              "WhenOpened": "2024-06-21T11:41:50.744Z",
               "EditorCaption": ""
             }
           ]

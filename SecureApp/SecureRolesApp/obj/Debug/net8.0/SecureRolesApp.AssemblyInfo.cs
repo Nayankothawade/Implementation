@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureRolesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09911ebca4d557c3e8673eae71065506539d1197")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4f67f22d836dcdd5a3d7899b78605e75c6c9d78")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureRolesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureRolesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
