@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MBGydP95hb/fvjJ5CX8IlEaq3WxA8OJRMeSBjHwdFo0=",
+  "Source": "SecureRolesApp",
+  "BasePath": "_content/SecureRolesApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

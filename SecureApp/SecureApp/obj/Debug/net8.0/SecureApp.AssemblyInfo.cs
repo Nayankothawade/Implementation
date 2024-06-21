@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe7a8e8fa384baeaa7d9db4ecb8d022dbdc8309f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09911ebca4d557c3e8673eae71065506539d1197")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
